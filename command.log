@@ -1,0 +1,29 @@
+2023-11-19: project_basic.py -cd_dd
+2023-11-19: project_basic.py -ls
+2023-11-19: project_basic.py -pwd
+2023-11-19: project_basic.py -cat -file C:\\Users\\saraye tel\\Desktop\\Filoger\\001_Python_Basic_Final_Project\\command.log
+2023-11-19: project_basic.py -ls
+2023-11-19: project_basic.py -cd -dir dir9
+2023-11-19: project_basic.py -ls
+2023-11-19: project_basic.py -cd -dir Ali
+2023-11-19: project_basic.py -ls
+2023-11-19: project_basic.py -cat -file C:\\Users\\saraye tel\\Desktop\\Filoger\\001_Python_Basic_Final_Project\\command.log
+2023-11-19: project_basic.py -cat -file C:\\Users\\saraye tel\\Desktop\\Filoger\\001_Python_Basic_Final_Project\\command.log
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9\\Ali.txt -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -find -path C:\\Users\\saraye tel\\Desktop\\test_rm\\dir9 -pattern Ali
+2023-11-19: project_basic.py -ls
+2023-11-21: Python_basic_finalproject_MohammadAmin_Karamali.py -pwd
+2023-11-21: Python_basic_finalproject_MohammadAmin_Karamali.py -cd_dd
+2023-11-21: Python_basic_finalproject_MohammadAmin_Karamali.py -pwd
+2023-11-21: Python_basic_finalproject_MohammadAmin_Karamali.py -cd_dd
